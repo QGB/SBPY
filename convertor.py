@@ -1,4 +1,4 @@
-import sys,os;sys.path.append('d:\pm');from qgb import *
+import sys,os;sys.path.insert(0,'E:\sourceCode\shell\py');from qgb import *
 
 output='./output/'
 
